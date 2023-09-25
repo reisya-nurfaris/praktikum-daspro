@@ -8,7 +8,7 @@
 
 ![full_ss](https://github.com/reisya-nurfaris/praktikum-daspro/assets/144969454/cd012eae-e91b-4195-bf26-96be0bc6f55f)
 
-Berikut adalah penjelasan output dari program ini:
+Berikut adalah penjelasan output dari [kode ini](./konversi_satuan.py):
 
 ### Bagian 1: Login
 
