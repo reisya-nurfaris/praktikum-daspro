@@ -1,5 +1,11 @@
 <h1 align="center">Program Toko Perlengkapan Outdoor</h1>
 
+**Nama:** Reisya Nurfaris Dzakwan Alamsyah
+
+**NIM:** 2309116102
+
+**Kelas:** Sistem Informasi - B
+
 ## Flowchart
 ![](https://github.com/reisya-nurfaris/praktikum-daspro/assets/144969454/3f3596d6-36ec-4be9-b32f-4636df3f6233)
 
